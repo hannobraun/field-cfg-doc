@@ -1,0 +1,7 @@
+[package]
+name    = "field-cfg-doc"
+version = "0.1.0"
+authors = ["Hanno Braun <hanno@braun-robotics.com>"]
+
+[features]
+feature = []
